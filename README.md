@@ -9,6 +9,7 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: MY BEAUTY (is) FULL 
-* Student ID: ID123
+* Student Name: Nguyen Hong Minh
+* Student ID: Bi11-183
+* Group: G5
 
